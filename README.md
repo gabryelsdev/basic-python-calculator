@@ -1,2 +1,17 @@
 # basic-python-calculator
-Primeira calculadora feita em Python para praticar lógica de programação (utilizando os conhecimentos adquiridos na explicação do meu professor do curso tec em DS na primeira aula prática e com a ajuda do Chat GPT para apriomorar a explicação do professor.)
+
+Primeira calculadora desenvolvida em Python para praticar lógica de programação.
+
+## Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Tratamento de divisão por zero
+
+## Tecnologias
+- Python
+
+---
+
+Projeto desenvolvido para estudo e evolução na programação.
